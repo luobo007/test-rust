@@ -1,0 +1,10 @@
+D:\rust\test-rust\greeting\target\debug\deps\liballocator_api-ebe134938e23dc2d.rmeta: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\libcore\alloc.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\libstd\alloc.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\boxed.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\collections\mod.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\raw_vec.rs
+
+D:\rust\test-rust\greeting\target\debug\deps\allocator_api-ebe134938e23dc2d.d: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\libcore\alloc.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\libstd\alloc.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\boxed.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\collections\mod.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\raw_vec.rs
+
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\lib.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\libcore\alloc.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\libstd\alloc.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\boxed.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\collections\mod.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\allocator_api-0.6.0\src\liballoc\raw_vec.rs:
